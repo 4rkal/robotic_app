@@ -13,6 +13,21 @@
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
         <activity
+            android:name=".chemical"
+            android:exported="false" />
+        <activity
+            android:name=".electrical"
+            android:exported="false" />
+        <activity
+            android:name=".mechanical"
+            android:exported="false" />
+        <activity
+            android:name=".industrial"
+            android:exported="false" />
+        <activity
+            android:name=".civil"
+            android:exported="false" />
+        <activity
             android:name=".theoretical1"
             android:exported="false" />
         <activity
