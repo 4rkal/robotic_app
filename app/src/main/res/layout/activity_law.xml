@@ -31,24 +31,24 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.224"
-        android:text="Enviromental Law" />
+        android:text="Environmental Law" />
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="414dp"
-        android:layout_height="480dp"
+        android:layout_width="393dp"
+        android:layout_height="798dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.417"
+        app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@drawable/card" />
 
     <TextView
         android:id="@+id/textView6"
-        android:layout_width="366dp"
-        android:layout_height="270dp"
-        android:text="A lawyer specializing in environmental law is a legal professional who provides legal advice and representation in matters related to environmental issues. They work on cases that involve compliance with environmental regulations, environmental impact assessments, pollution control, waste management, and other related matters. They may also represent clients in negotiations with regulatory bodies, advocacy groups, and other stakeholders related to environmental issues. Their main goal is to ensure that their clients comply with environmental laws and regulations while minimizing any adverse environmental impact of their actions."
+        android:layout_width="365dp"
+        android:layout_height="281dp"
+        android:text="An environmental lawyer provides legal advice and representation in cases related to environmental issues such as pollution control, waste management, and compliance with environmental regulations. They aim to help their clients minimize any negative impact on the environment and negotiate with regulatory bodies and advocacy groups."
         android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -61,7 +61,7 @@
         android:id="@+id/textView11"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Average Anual Salary USD 86.900"
+        android:text="Average Annual Salary USD 148.910"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
