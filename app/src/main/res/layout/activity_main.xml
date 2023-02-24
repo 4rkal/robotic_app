@@ -82,6 +82,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.963"
-        app:srcCompat="@drawable/logo" />
+        app:srcCompat="@drawable/logo_by" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

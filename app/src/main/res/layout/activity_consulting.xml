@@ -12,32 +12,34 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="20sp"
+        android:textStyle="bold"
+        android:translationZ="2dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.435"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.606"
-        android:text="Solar Energy Technologies " />
+        android:text="Green Energy Advisor" />
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="373dp"
-        android:layout_height="224dp"
+        android:layout_width="369dp"
+        android:layout_height="212dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.421"
+        app:layout_constraintHorizontal_bias="0.238"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.891"
+        app:layout_constraintVertical_bias="0.874"
         app:srcCompat="@drawable/card" />
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Electrical Engineering"
-        android:textSize="40sp"
+        android:text="Consulting"
+        android:textSize="37sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.427"
@@ -50,13 +52,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="20sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.442"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.201"
-        android:text="Smart grids" />
+        android:text="Energy Efficiency Consultant" />
 
     <ImageView
         android:id="@+id/imageView"
@@ -74,7 +77,7 @@
         android:id="@+id/textView6"
         android:layout_width="317dp"
         android:layout_height="219dp"
-        android:text="Electrical engineers specializing in Smart Grids design digital grids that optimize energy distribution and consumption. They work on renewable energy integration, energy storage, load balancing, and power quality improvement, and develop communication systems and algorithms to manage energy demand and supply. They also ensure efficient and reliable electricity delivery, sometimes by developing new technologies."
+        android:text="An energy efficiency consultant conducts audits of energy usage and develops strategies to improve energy efficiency for clients. They also provide recommendations on cost-effective energy-saving measures and assist clients in securing funding for energy-efficient solutions. The aim is to reduce energy costs, promote sustainable energy practices, and reduce carbon footprint."
         android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -88,7 +91,7 @@
         android:id="@+id/textView10"
         android:layout_width="311dp"
         android:layout_height="209dp"
-        android:text="Electrical engineers specializing in Solar Energy Technologies design and develop electrical systems and grids that use solar power. They optimize energy production, minimize energy loss, and improve power quality. They may also develop new technologies, collaborate with other professionals, and conduct research to improve the efficiency and cost-effectiveness of solar energy systems."
+        android:text="A green energy advisor evaluates the energy needs and goals of their clients and recommends the most suitable renewable energy technology. They also provide advice on incentives, financing options, and regulations related to renewable energy systems. Their main aim is to help clients reduce their carbon footprint, save money on energy costs, and promote sustainable energy practices."
         android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -96,13 +99,13 @@
         app:layout_constraintHorizontal_bias="0.42"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.894" />
+        app:layout_constraintVertical_bias="0.875" />
 
     <TextView
         android:id="@+id/textView11"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Average Anual Salary USD 86.900"
+        android:text="Average Annual Salary USD 86.900"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"

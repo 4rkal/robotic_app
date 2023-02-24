@@ -21,7 +21,35 @@ public class Engineering extends AppCompatActivity {
         civil.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Engineering.this,Engineering.class );
+                Intent intent = new Intent(Engineering.this,civil.class );
+                startActivity(intent);
+            }
+        });
+        industrial.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Engineering.this,industrial.class );
+                startActivity(intent);
+            }
+        });
+        mechanical.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Engineering.this,mechanical.class );
+                startActivity(intent);
+            }
+        });
+        electrical.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Engineering.this,electrical.class );
+                startActivity(intent);
+            }
+        });
+        chemical.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Engineering.this,chemical.class );
                 startActivity(intent);
             }
         });
