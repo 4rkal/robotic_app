@@ -10,11 +10,13 @@
         android:label="Green Jobs"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:forceDarkAllowed="false"
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
         <activity
             android:name=".Law"
-            android:exported="false" />
+            android:exported="false"
+            android:textColor="@color/black"/>
         <activity
             android:name=".Consulting"
             android:exported="false" />

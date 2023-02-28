@@ -2,6 +2,7 @@ package com.example.myapplication;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatDelegate;
 
 import android.content.Intent;
 import android.gesture.Gesture;
@@ -21,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
 //        swipeListener = new SwipeListener(relativeLayout);
 
         Button practical = (Button)findViewById(R.id.button2);
@@ -28,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         practical.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
                 Intent intent = new Intent(MainActivity.this,Practical1.class );
                 startActivity(intent);
             }
@@ -35,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
         theoretical.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
                 Intent intent = new Intent(MainActivity.this,theoretical1.class );
                 startActivity(intent);
             }
