@@ -29,7 +29,7 @@
         android:layout_width="352dp"
         android:layout_height="449dp"
         android:layout_centerInParent="true"
-        android:paddingTop="200dp"
+        android:paddingTop="310dp"
         android:text="A green energy advisor evaluates the energy needs and goals of their clients and recommends the most suitable renewable energy technology. They also provide advice on incentives, financing options, and regulations related to renewable energy systems. Their main aim is to help clients reduce their carbon footprint, save money on energy costs, and promote sustainable energy practices. "
         android:textSize="16sp"
         android:textStyle="bold"
