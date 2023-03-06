@@ -26,8 +26,8 @@
 
     <TextView
         android:id="@+id/textView7"
-        android:layout_width="352dp"
-        android:layout_height="449dp"
+        android:layout_width="364dp"
+        android:layout_height="508dp"
         android:layout_centerInParent="true"
         android:paddingTop="310dp"
         android:text="A green energy advisor evaluates the energy needs and goals of their clients and recommends the most suitable renewable energy technology. They also provide advice on incentives, financing options, and regulations related to renewable energy systems. Their main aim is to help clients reduce their carbon footprint, save money on energy costs, and promote sustainable energy practices. "
@@ -50,8 +50,8 @@
 
     <TextView
         android:id="@+id/textView6"
-        android:layout_width="344dp"
-        android:layout_height="345dp"
+        android:layout_width="347dp"
+        android:layout_height="376dp"
         android:layout_centerHorizontal="true"
         android:paddingTop="150dp"
         android:text="An energy efficiency consultant conducts audits of energy usage and develops strategies to improve energy efficiency for clients. They also provide recommendations on cost-effective energy-saving measures and assist clients in securing funding for energy-efficient solutions. The aim is to reduce energy costs, promote sustainable energy practices, and reduce carbon footprint. "

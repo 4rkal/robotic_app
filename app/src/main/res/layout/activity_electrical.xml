@@ -26,8 +26,8 @@
 
     <TextView
         android:id="@+id/textView7"
-        android:layout_width="352dp"
-        android:layout_height="449dp"
+        android:layout_width="358dp"
+        android:layout_height="682dp"
         android:layout_centerInParent="true"
         android:paddingTop="310dp"
         android:text="Electrical engineers specializing in Solar Energy Technologies design and develop electrical systems and grids that use solar power. They optimize energy production, minimize energy loss, and improve power quality. They may also develop new technologies, collaborate with other professionals, and conduct research to improve the efficiency and cost-effectiveness of solar energy systems. "
@@ -50,8 +50,8 @@
 
     <TextView
         android:id="@+id/textView6"
-        android:layout_width="344dp"
-        android:layout_height="345dp"
+        android:layout_width="342dp"
+        android:layout_height="395dp"
         android:layout_centerHorizontal="true"
         android:paddingTop="150dp"
         android:text="Electrical engineers specializing in Smart Grids design digital grids that optimize energy distribution and consumption. They work on renewable energy integration, energy storage, load balancing, and power quality improvement, and develop communication systems and algorithms to manage energy demand and supply. They also ensure efficient and reliable electricity delivery, sometimes by developing new technologies. "

@@ -26,8 +26,8 @@
 
     <TextView
         android:id="@+id/textView7"
-        android:layout_width="352dp"
-        android:layout_height="449dp"
+        android:layout_width="351dp"
+        android:layout_height="539dp"
         android:layout_centerInParent="true"
         android:paddingTop="310dp"
         android:text="Industrial engineers specializing in Environmental Management reduce the environmental impact of industrial processes. They develop strategies for waste reduction, pollution control, and compliance with regulations. They may work on sustainable energy and eco-design projects and collaborate with other professionals to ensure environmentally responsible and sustainable processes. "
@@ -50,8 +50,8 @@
 
     <TextView
         android:id="@+id/textView6"
-        android:layout_width="344dp"
-        android:layout_height="345dp"
+        android:layout_width="350dp"
+        android:layout_height="383dp"
         android:layout_centerHorizontal="true"
         android:paddingTop="150dp"
         android:text="Industrial engineers specializing in Techniques for Research and Industry use advanced research techniques to improve industrial processes and products. They optimize processes, improve quality control, and reduce costs. They may also develop new technologies, conduct research, and collaborate with other professionals to ensure efficient operation of industrial processes. "

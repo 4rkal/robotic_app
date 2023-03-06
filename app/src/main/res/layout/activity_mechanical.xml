@@ -26,8 +26,8 @@
 
     <TextView
         android:id="@+id/textView7"
-        android:layout_width="352dp"
-        android:layout_height="449dp"
+        android:layout_width="359dp"
+        android:layout_height="682dp"
         android:layout_centerInParent="true"
         android:paddingTop="310dp"
         android:text="CFD mechanical engineers use computer simulations to analyze fluid flow problems, identify inefficiencies and suggest design improvements. They work in different industries and collaborate with other engineers for accurate analysis. "
@@ -50,8 +50,8 @@
 
     <TextView
         android:id="@+id/textView6"
-        android:layout_width="344dp"
-        android:layout_height="345dp"
+        android:layout_width="341dp"
+        android:layout_height="372dp"
         android:layout_centerHorizontal="true"
         android:paddingTop="150dp"
         android:text="Mechanical engineers specializing in Wind, Wave, and Tidal Energy design and maintain renewable energy systems that convert wind, wave, and tidal energy into electricity. They conduct research to improve efficiency, reliability, and cost-effectiveness, collaborate with other professionals, and develop new technologies to enhance system performance. "

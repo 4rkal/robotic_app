@@ -15,6 +15,7 @@
         android:layout_centerHorizontal="true"
         android:paddingTop="190dp"
         android:text="An environmental lawyer provides legal advice and representation in cases related to environmental issues such as pollution control, waste management, and compliance with environmental regulations. They aim to help their clients minimize any negative impact on the environment and negotiate with regulatory bodies and advocacy groups."
+        android:layout_alignParentTop="true"
         android:textSize="16sp"
         android:textStyle="bold"
         android:translationZ="1dp"
