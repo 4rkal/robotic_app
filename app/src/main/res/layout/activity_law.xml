@@ -9,23 +9,6 @@
     android:textColor="@color/black">
 
     <TextView
-        android:id="@+id/textView6"
-        android:layout_width="344dp"
-        android:layout_height="345dp"
-        android:layout_centerHorizontal="true"
-        android:paddingTop="190dp"
-        android:text="An environmental lawyer provides legal advice and representation in cases related to environmental issues such as pollution control, waste management, and compliance with environmental regulations. They aim to help their clients minimize any negative impact on the environment and negotiate with regulatory bodies and advocacy groups."
-        android:layout_alignParentTop="true"
-        android:textSize="16sp"
-        android:textStyle="bold"
-        android:translationZ="1dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.567"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.464" />
-
-    <TextView
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -75,12 +58,12 @@
         />
 
     <ImageView
-        android:id="@+id/imageView4"
-        android:layout_width="373dp"
-        android:layout_height="314dp"
+        android:id="@+id/imageView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="100dp"
-        app:srcCompat="@drawable/card" />
+        app:srcCompat="@drawable/law" />
 
 
 </RelativeLayout>
